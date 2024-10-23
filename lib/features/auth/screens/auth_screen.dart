@@ -109,7 +109,7 @@ class _AuthScreenState extends State<AuthScreen> {
                     ? GlobalVariables.backgroundColor
                     : GlobalVariables.greyBackgroundCOlor,
                 title: const Text(
-                  "Sign-In Account",
+                  "Sign-In",
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                   ),
